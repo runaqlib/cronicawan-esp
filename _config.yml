@@ -127,7 +127,7 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/runaqlib/cronicawan-wax'
+      link: 'https://github.com/runaqlib-esp'
     - label: 'Créditos'
       link: '/credits'
   logos:
