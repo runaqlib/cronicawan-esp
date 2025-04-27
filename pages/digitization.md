@@ -1,42 +1,45 @@
 ---
 layout: page
-title: About The Digitization Project
+title: Sobre el proyecto de digitalización 
 permalink: /digitization-project/
 ---
 
 
 <a href="{{ '/img/cbc.png' | absolute_url }}">
-  <img src="{{ '/img/cbc.png' | absolute_url }}" alt="A view of the exterior of the Centro Bartolome de las Casas in Cusco, Peru"/>
+  <img src="{{ '/img/cbc.png' | absolute_url }}" alt="Una vista del exterior del Centro Bartolomé de las Casas en Cusco, Perú."/>
 </a>
 
-_Alt: A view of the exterior of Centro Bartolome de las Casas in Cusco, Peru._
+_Alt: Una vista del exterior del Centro Bartolomé de las Casas en Cusco, Perú._
 
-### Finding The Newspapers
+### Encontrar los periódicos
 
-Funds from the Tinker grant allowed me to travel to the Centro Bartolome de las Casas (CBC) in Cusco and begin the process of digitalizing, transcribing, and translating these works for work on my thesis for Latin American and Caribbean Studies at NYU. The 15 editions available in the archive had clearly been exposed to water and other elements, which were starting to degrade the paper and make the newspapers fragile. The issues were digitized using a setup with a modified tripod, my iPhone, and the Adobe Scan app.
+Los fondos de la subvención Tinker me permitieron viajar al Centro Bartolomé de las Casas (CBC) en Cusco y comenzar el proceso de digitalización, transcripción y traducción de estos trabajos para trabajar en mi tesis para Estudios Latinoamericanos y Caribeños en NYU. Las 15 ediciones disponibles en el archivo habían estado claramente expuestas al agua y otros elementos, que estaban empezando a degradar el papel y a hacer que los periódicos fueran frágiles. Los números se digitalizaron utilizando una configuración con un trípode modificado, mi iPhone y la aplicación Adobe Scan.
 
 <img src="{{ '/img/setup.png' | absolute_url }}" alt="A photo of the digitization setup, including a table, copies of the newspapers, a tripod, and a laptop showing scans of the issues."/>
 
-_Alt: A photo of the digitization setup, including a table, copies of the newspapers, a tripod, and a laptop showing scans of the issues._
+_Alt: Una foto de la configuración de la digitalización, que incluye una mesa, copias de los periódicos, un trípode y una computadora que muestra escaneos de los números._
 
-### Transcriptions: hand, automation, and the limits of tech
+### Transcripciones: a mano, la automatización y los límites de la tecnología
 
-Cronicawan was published almost entirely in Quechua, a language that remains largely oral and has long been marginalized. Traditional OCR (Optical Character Recognition) tools, typically trained on English or Spanish-language Latin print, were not able to accurately read the Quechua language or interpret the newspaper’s page layouts. 
+_Cronicawan_ fue publicado casi en su totalidad en quechua, un idioma que sigue siendo en gran parte oral y ha sido marginado durante mucho tiempo. Las herramientas tradicionales OCR (reconocimiento óptico de caracteres), normalmente entrenadas en impresión latina en inglés o español, no fueron capaces de leer con precisión el idioma quechua o interpretar los diseños de página del periódico.
 
-I used [Transkribus](https://www.transkribus.org/), a platform that utilizes AI language models for automated text recognition, to train a custom AI model specifically tailored to recognizing the text of Cronicawan. This allowed for a higher degree of accuracy than other, preexisting OCR tools. Even with this tool, the transcription process required human intervention. 
+Utilicé [Transkribus](https://www.transkribus.org/), una plataforma que utiliza modelos de lenguaje de IA para el reconocimiento automatizado de texto, para entrenar un modelo de IA personalizado específicamente diseñado para reconocer el texto de Cronicawan. Esto permitió un mayor grado de precisión que otras herramientas de OCR preexistentes. Incluso con esta herramienta, el proceso de transcripción requirió intervención humana.
 
-**The transcriptions available on this site are a combination of hand transcribed, hand-corrected, and automated text** especially where page damage, stylized text, or unusual spacing made results unreliable. That being said, **automated transcriptions may not be 100% accurate, so please use caution and double-check the text.** Please contact me if you notice transcription errors while browsing. 
+**Las transcripciones disponibles en este sitio son una combinación de texto transcrito a mano, corregido a mano y automatizado** especialmente cuando el daño de página, el texto estilizado o el espaciado inusual hacen que los resultados no sean confiables. Dicho esto, **Las transcripciones automatizadas pueden no ser 100% precisas, así que por favor tenga cuidado y revise el texto.** Por favor, póngase en contacto conmigo si nota errores de transcripción mientras navega.
 
 <img src="{{ '/img/transkribus.gif' | absolute_url }}" alt="A gif of the Transkribus UI, showing the process of hand-correcting AI-detected text."/>
 
-*Alt: A gif of the Transkribus UI, showing the process of hand-correcting AI-detected text.*
+*Alt: Un gif de la interfaz de usuario de Transkribus, que muestra el proceso de corrección manual del texto detectado por IA.*
 
-### Translations & Interpretations
+### Traducciones e interpretaciones
+Translation presentó su propio conjunto de desafíos con Cronicawan. He tomado la **decisión deliberada de no traducir el texto quechua al inglés o al español más allá de las traducciones al español que se incluyeron en el propio periódico**. Esta decisión refleja tanto la complejidad cultural de la traducción del quechua como las limitaciones de las herramientas de traducción automatizada o no experta a la hora de manejar matices lingüísticos.
 
-Translation presented its own set of challenges with Cronicawan. I have made the **deliberate choice not to translate the Quechua text into English or Spanish beyond the Spanish translations that were included within the newspaper itself**. This decision reflects both the cultural complexity of translating Quechua and the limitations of automated or non-expert translation tools when handling linguistic nuance. **English translations are automated from the provided Spanish translations, so please use caution when browsing.** Visitors are invited to engage with the Quechua texts as they are, unedited with their historical context and linguistic richness intact. 
+**Las traducciones al inglés están automatizadas a partir de las traducciones al español proporcionadas, así que ten cuidado al navegar.** Se invita a los visitantes a interactuar con los textos en quechua tal como están, sin editar, con su contexto histórico y riqueza lingüística intacta.
 
-### Building the Website: Jekyll, Wax, and a view into the Archive
+---
 
-This project is driven by a commitment to making Quechua-language materials more accessible and visible online, while being mindful of the technological and cultural limitations inherent to working with underrepresented languages and archival formats. This edition of Cronicawan, **published 50 years after its initial publication, offers a new way to encounter and study this rare Quechua-language newspaper**. 
+### Construyendo el sitio web: Jekyll, Wax y una vista en el archivo
 
-Digitizing Cronicawan was built using Jekyll, a static site generator. I used Wax, a framework for Jekyll designed to support image-based collections. Wax enabled me to more easily format individual pages for each issue and transcription with their associated metadata, and implement search functions across the documents. The transcription viewer allows users to view Quechua and Spanish transcriptions alongside scanned images of the original newspaper. 
+Este proyecto está impulsado por el compromiso de hacer que los materiales en quechua sean más accesibles y visibles en línea, al tiempo que es consciente de las limitaciones tecnológicas y culturales inherentes al trabajo con lenguajes y formatos de archivo subrepresentados. Esta edición de Cronicawan, **publicada 50 años después de su publicación inicial, ofrece una nueva forma de conocer y estudiar este raro periódico en lengua quechua**.
+
+_La digitalización de Cronicawan_ se construyó utilizando Jekyll, un generador de sitios estáticos. Utilicé Wax, un framework para Jekyll diseñado para soportar colecciones basadas en imágenes. Wax me permitió formatear más fácilmente páginas individuales para cada edición y transcripción con sus metadatos asociados, e implementar funciones de búsqueda en todos los documentos. El visor de transcripciones permite a los usuarios ver transcripciones en quechua y español junto con imágenes escaneadas del periódico original.

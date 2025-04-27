@@ -9,13 +9,12 @@ banner:
   height: '500px'
 ---
 
-### Welcome to Digitizing _Cronicawan_
+### Bienvenidos a Digitalizando _Cronicawan_
+_Cronicawan_ fue el primer y único periódico en quechua del Perú, publicado en 1975 durante el Gobierno Revolucionario de Juan Velasco Alvarado. Como una herramienta de creación de estado y una plataforma rara para el periodismo en lengua quechua, Cronicawan ofrece valiosas perspectivas sobre la representación de los medios indígenas y la participación en temas como la reforma agraria, el extractivismo, la comunidad y el discurso revolucionario en el Perú del siglo XX. Puedes obtener más información [sobre el periódico](/cronicawan-esp/about) y [sobre el proyecto de digitalización](/cronicawan-esp/digitization).
 
-_Cronicawan_ was Peru’s first and only state-supported Quechua-language newspaper, published in 1975 during the Revolutionary Government of Juan Velasco Alvarado. As both a tool of state making and a rare platform for Quechua-language journalism, Cronicawan offers valuable insights into Indigenous media representation and engagement in issues like agrarian reform, extractivism, community, and revolutionary discourse in 20th-century Peru. You can learn more <a href="/cronicawan-wax/about-cronicawan/">about the newspaper</a> and <a href="/cronicawan-wax/digitization-project/">about the digitization project</a>. View the <a href="/cronicawan-wax/credits/">credits</a> for important information about the origins and creation of the project. 
+Este archivo digital es un trabajo en progreso. Explore el [Índice](/cronicawan-esp/index) para obtener más información sobre las ediciones disponibles y el contenido de cada edición, o explore la colección a continuación. Vea [los créditos](/cronicawan-esp/credits) para obtener información importante sobre los orígenes y los contribuyentes a este proyecto. 
 
-This digital archive is a work in progress. Explore the  <a href="/cronicawan-wax/index/">Index</a> to learn more about the available editions and the content of each edition, or browse the collection below.
+### Explorar la colección 
 
-### Browse the Collection
-
-#### By Item Type
+#### Por tipo de artículo  
 {% include collection_gallery.html facet_by='object_type' collection='cronicawan' %}

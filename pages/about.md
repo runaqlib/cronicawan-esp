@@ -1,33 +1,40 @@
 ---
 layout: page
 permalink: /about-cronicawan/
-title: About Cronicawan
+title: Sobre Cronicawan
 ---
 
-### About the Revolutionary Government of Armed Forces
+### Sobre el Gobierno Revolucionario de las Fuerzas Armadas
 
-Following a coup in 1968, Juan Velasco Alvarado assumed the position of President for the new _Gobierno Revolucionario de las Fuerzas Armadas_ (Revolutionary Government of Armed Forces). This government quickly implemented a series of leftist reforms to address the historical injustices of the Peruvian state. Most notably, Velasco was concerned with the treatment of Indigenous peasant and _campesino_ (rural) populations of Peru.
+Después de un golpe de Estado en 1968, Juan Velasco Alvarado asumió el cargo de Presidente del nuevo Gobierno Revolucionario de las Fuerzas Armadas. Este gobierno implementó rápidamente una serie de reformas izquierdistas para abordar las injusticias históricas del estado peruano. En particular, Velasco estaba preocupado por el tratamiento de las poblaciones indígenas campesinas del Perú.
 
-During this time, Velasco passed a variety of reforms focused on economic redistribution, including refinancing the national debt, agrarian reform, and a major investment into education, health, and housing. These reforms also included the nationalization of news media (1974) and the official recognition of Quechua language as an equally valid language to Spanish in education, law, and government.
+Durante este tiempo, Velasco aprobó una variedad de reformas enfocadas en la redistribución económica, incluyendo el refinanciamiento de la deuda nacional, la reforma agraria y una inversión importante en educación, salud y vivienda. Estas reformas también incluyeron la nacionalización de los medios de comunicación (1974) y el reconocimiento oficial de la lengua quechua como lengua igualmente válida al español en la educación, la ley y el gobierno (1975).
 
-These conditions are what made the creation of _Cronicawan_, a state-supported Quechua-language newspaper, possible.
+Estas condiciones son las que hicieron posible la creación de _Cronicawan_, un periódico en quechua apoyado por el Estado.
 
 ---
 
-### About _Cronicawan_
+### Sobre _Cronicawan_
 
-**_Cronicawan_ was published briefly for 16 or 17 issues in 1975.**  
-Cronicawan ran for 16 or 17 issues _(yupana)_ from June _(Inti Raymi Killa)_ to September _(Chajra Yapuy killa)_ in 1975. The first 11 issues were produced at a broadsheet size and produced primarily in Quechua _(Runasimi)_. Issues 2-11 included a double-sided insert page that contained translations of the articles into Spanish. Each of the first 11 issues sold for 4 soles, which was subsidized by the Velasco government as part of _Ley No. 21156_. Starting with issue 12, the newspaper was produced at a smaller A4 (standard magazine) size, and featured articles that were written in parallel, first in Quechua and after translated into Spanish. These later editions sold for 4.50 soles. Production ended shortly after the military coup of Francisco Morales Bermúdez on August 29, 1975, which deposed Velasco and later walked back many of the reforms regarding Quechua language and Indigenous engagement that were established during this time.
+**_Cronicawan_ se publicó brevenemte durante 16 o 17 números en 1975**  
 
-The collection displayed here contains 15 issues of the extant 16 or 17 issues. See the page **About the Digitization Project** for more details.
+Cronicawan corrió tuvo una tirada de 16 o 17 números (_yupana_) desde junio (_Inti Raymi Killa_) hasta septiembre (_Chajra Yapuy Killa_) en 1975. Los primeros 11 números fueron producidos a tamaño de hoja de radio y producidos principalmente en quechua (Runasimi). Los números 2-11 incluían una página de inserción de doble cara que contenía traducciones de los artículos al español.
 
-#### Who created _Cronicawan_?
+Cada una de las 11 primeras emisiones se vendió por 4 soles, que fue subvencionada por el gobierno de Velasco como parte de la Ley N° 21156. A partir del número 12, el periódico se produjo en un tamaño A4 (revista estándar) más pequeño, y presentaba artículos que fueron escritos en paralelo, primero en quechua y después traducidos al español. Estas ediciones posteriores se vendieron por 4,50 soles.
 
-Cronicawan’s many editors and contributors included Guillermo Thorndike, Angel Avendaño, Luis Gonzales Posada, William Hurtado de Mendoza, and Hernando Aguirre Gamio. Thorndike, a Lima-based journalist, was deeply involved in the journalistic scene before the expropriation of newspapers by Velasco. He founded the newspaper _La República_, which was named specifically in Decreto Ley No. 20681, and was later the directorate of the newspapers _La Tercera_ and _La Crónica_. Avendaño and Hurtado de Mendoza were both from Cusco and bilingual Quechua/Spanish speakers. The two published poetry in both languages and wrote a majority of the reflection pieces throughout the newspapers.
+La producción de _Cronicawan_ probablemente terminó poco después del golpe militar de Francisco Morales Bermúdez el 29 de agosto de 1975, que depuso a Velasco y más tarde retrocedió muchas de las reformas sobre el idioma quechua y el compromiso indígena que se establecieron durante este tiempo.
+
+La colección que se muestra aquí contiene 15 números de los 16 o 17 números existentes. Consulte la página <a href="/cronicawan-esp/digitization-project/">sobre el proyecto de digitilización</a> para obtener más detalles.
+
+---
+
+#### ¿Quién creó _Cronicawan_?
+
+Entre los editores y colaboradores de Cronicawan se encuentran Guillermo Thorndike, Angel Avendaño, Luis Gonzales Posada, William Hurtado de Mendoza y Hernando Aguirre Gamio. Thorndike, un periodista afincado en Lima, estuvo profundamente involucrado en la escena periodística antes de la expropiación de periódicos por Velasco. Fundó el diario _La República_, que fue nombrado específicamente en el Decreto Ley N° 20681, y más tarde fue la dirección de los periódicos _La Tercera_ y _La Crónica_.Avendaño y Hurtado de Mendoza eran ambos de Cusco y hablantes bilingües de quechua/español. Los dos publicaron poesía en ambos idiomas y escribieron la mayoría de las piezas de reflexión en los periódicos.
 
 
-#### What did _Cronicawan_ include?
+#### ¿Qué incluyó _Cronicawan_?
 
-Cronicawan emerged as a product of the ideological shifts emphasized in the Velasco government, serving not only as a medium for state messaging but also as a platform where Quechua speakers could engage with national and international affairs through their own linguistic and cultural lens.
+_Cronicawan_ surgió como un producto de los cambios ideológicos enfatizados en el gobierno de Velasco, sirviendo no solo como un medio para la mensajería estatal, sino también como una plataforma donde los hablantes de quechua podían comprometerse con los asuntos nacionales e internacionales a través de su propia lente lingüística y cultural.
 
-_Cronicawan_ included sections for national news, international news, reader submissions, art and poetry, and resources for learning Quechua. The tagline, _Revolusionpa Rimaynin_, can be translated as "Voice of the Revolution" or "The Revolution Speaks". See the <a href="/cronicawan-wax/index/">Index</a> for full documentation of the issues displayed on this site and their layouts.
+_Cronicawan_ incluyó secciones para noticias nacionales, noticias internacionales, presentaciones de lectores, arte y poesía, y recursos para aprender quechua. El lema, _Revolusiunpa Rimaynin_, puede traducirse como "La voz de la revolución" o "La revolución habla". Consulte el <a href="/cronicawan-esp/index/">Indíce</a> para obtener la documentación completa de los problemas que se muestran en este sitio y sus diseños.

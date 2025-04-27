@@ -17,10 +17,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Digitizing Cronicawan'
-description:      'Documenting Quechua writings of the 1975 Peruvian revolution'
+title:            'Digitalizando Cronicawan'
+description:      'Documentación de los escritos en quechua del periódico Cronicawan de 1975'
 url:              'https://runaqlib.github.io'
-baseurl:          '/cronicawan-wax'
+baseurl:          '/cronicawan-esp'
 #copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
@@ -101,20 +101,22 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: "About"
+  - label: "Sobre"
     sub:
-      - label: "About Cronicawan"
+      - label: "Sobre Cronicawan"
         link: "/about-cronicawan/"
-      - label: "About the Digitization Project"
+      - label: "Sobre el proyecto de digitalización"
         link: "/digitization-project/"
-      - label: "How to Use the Site"
+      - label: "Cómo utilizar el sitio"
         link: "/how-to-use/"
-  - label: "Index"
+  - label: "Índice"
     link: "/index/"
-  - label: "Browse"
+  - label: "Explorar"
     link: "/collection/"
-  - label: "Search"
+  - label: "Buscar"
     link: "/search/"
+  - label: "Ver en inglés"
+    link: "https://runaqlib.github.io/cronicawan-wax/"
 
 
 # --------------------------------------------------------------
@@ -126,7 +128,7 @@ footer:
   links:
     - label: 'GitHub'
       link: 'https://github.com/runaqlib/cronicawan-wax'
-    - label: 'Credits'
+    - label: 'Créditos'
       link: '/credits'
   logos:
     - img: '/img/logo.png'
