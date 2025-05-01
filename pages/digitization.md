@@ -4,6 +4,7 @@ title: Sobre el proyecto de digitalización
 permalink: /digitization-project/
 ---
 
+_Digitalizando Cronicawan_ es un proyecto de Alía Warsco. Vea más detalles en la [página de contacto y créditos](/cronicawan-esp/credits).
 
 <a href="{{ '/img/cbc.png' | absolute_url }}">
   <img src="{{ '/img/cbc.png' | absolute_url }}" alt="Una vista del exterior del Centro Bartolomé de las Casas en Cusco, Perú."/>
@@ -13,7 +14,7 @@ _Alt: Una vista del exterior del Centro Bartolomé de las Casas en Cusco, Perú.
 
 ### Encontrar los periódicos
 
-Los fondos de la subvención Tinker me permitieron viajar al Centro Bartolomé de las Casas (CBC) en Cusco y comenzar el proceso de digitalización, transcripción y traducción de estos trabajos para trabajar en mi tesis para Estudios Latinoamericanos y Caribeños en NYU. Las 15 ediciones disponibles en el archivo habían estado claramente expuestas al agua y otros elementos, que estaban empezando a degradar el papel y a hacer que los periódicos fueran frágiles. Los números se digitalizaron utilizando una configuración con un trípode modificado, mi iPhone y la aplicación Adobe Scan.
+Los fondos de la subvención Tinker me permitieron viajar al Centro Bartolomé de las Casas (CBC) en Cusco y comenzar el proceso de digitalización, transcripción y traducción de estos trabajos para trabajar en mi tesis para el programa de Estudios Latinoamericanos y Caribeños en NYU. Las 15 ediciones disponibles en el archivo habían estado expuestas al agua y a otros elementos, que empezaron a degradar el papel y a hacer que los periódicos fueran frágiles. Los números se digitalizaron utilizando una configuración con un trípode modificado, mi iPhone y la aplicación Adobe Scan.
 
 <img src="{{ '/img/setup.png' | absolute_url }}" alt="A photo of the digitization setup, including a table, copies of the newspapers, a tripod, and a laptop showing scans of the issues."/>
 
@@ -32,9 +33,9 @@ Utilicé [Transkribus](https://www.transkribus.org/), una plataforma que utiliza
 *Alt: Un gif de la interfaz de usuario de Transkribus, que muestra el proceso de corrección manual del texto detectado por IA.*
 
 ### Traducciones e interpretaciones
-Translation presentó su propio conjunto de desafíos con Cronicawan. He tomado la **decisión deliberada de no traducir el texto quechua al inglés o al español más allá de las traducciones al español que se incluyeron en el propio periódico**. Esta decisión refleja tanto la complejidad cultural de la traducción del quechua como las limitaciones de las herramientas de traducción automatizada o no experta a la hora de manejar matices lingüísticos.
+La traducción de Cronicawan presentó de conjunto de desafíos. He tomado la **decisión deliberada de no traducir el texto quechua al inglés o al español más allá de las traducciones al español que se incluyeron en el propio periódico**. Esta decisión refleja tanto la complejidad cultural de la traducción del quechua como las limitaciones de las herramientas de traducción automatizada o no experta a la hora de manejar matices lingüísticos.
 
-**Las traducciones al inglés están automatizadas a partir de las traducciones al español proporcionadas, así que ten cuidado al navegar.** Se invita a los visitantes a interactuar con los textos en quechua tal como están, sin editar, con su contexto histórico y riqueza lingüística intacta.
+**Las traducciones al inglés están automatizadas a partir de las traducciones al español proporcionadas, así que tenga cuidado al navegar.** Se invita a los visitantes a interactuar con los textos en quechua tal como están, sin editar, con su contexto histórico y riqueza lingüística intacta.
 
 ---
 

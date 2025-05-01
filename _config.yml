@@ -115,7 +115,7 @@ menu:
     link: "/collection/"
   - label: "Buscar"
     link: "/search/"
-  - label: "Ver en inglés"
+  - label: "View in English"
     link: "https://runaqlib.github.io/cronicawan-wax/"
 
 
